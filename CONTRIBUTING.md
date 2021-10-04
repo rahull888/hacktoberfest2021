@@ -2,7 +2,6 @@ Contribution Guidelines
 Please be aware that we want to accept your contribution, but we have some rules to keep the minimum quality of the packages listed here. All reviews are not personal feedback, even if you are a developer reviewing your contribution. Sorry if we can't meet your expectations, we do our best.
 
 To add, remove, or change things on the list: Submit a pull request
-To set this list apart from and complement the excellent Go wiki Projects page, awesome-go is a specially curated list for high-quality, actively maintained Go packages and resources.
 
 List items should be sorted alphabetically;
 Each item should be limited to one link;

@@ -29,6 +29,17 @@ Follow these steps to make your very first Pull request.
 
 Not everyone is aware of every tool present in the world no matter how easy or complex it is. It's also not necessary to know each and every tool out there. 
 
+use the below code :
+make a file in json format.
+
+{
+    "Name":"Rahul Mishra",
+    "Occupation":"STUDENT - IT",
+    "UserName" : "rahull888",
+    "StarredTheRepo":true,
+    "FavouriteQuote":"Belive and have unwaver faith on mother-nature"
+}
+
 # Congratulations!
 
 Congratulation! You just made your first pull request and if it gets merged, you can view it using the Link provided above!
